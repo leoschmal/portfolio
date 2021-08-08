@@ -56,12 +56,18 @@ a {
   text-decoration: none;
   color: var(--caracol)
 }
+li{
+  list-style-type: none;
+  font-size:2rem;
+  text-align: center;
+  
+}
 footer {
   text-align: center;
 }
 .contenedor {
   max-width: 110rem;
-  margin: 0 auto;
+  margin: 3rem auto;
 }
 .navBg {
   background-color: var(--caracol);
@@ -201,6 +207,7 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-bottom: 2rem;
 }
 
 /*Formulario*/
