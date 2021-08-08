@@ -1,13 +1,19 @@
 
-# Proyecto Final Desarrollo WEB
+# Portfolio - Leonardo Schmal
 
-Repositorio del proyecto de pagina web estática - CODERHOUSE
-## Descripcion
-
-El sitio es de una empresa dedicada a servicios de limpieza y desinfección para empresas y hogares. [ECO](https://www.instagram.com/ecolimpieza.servicios/?hl=es-la).
+Repositorio de Portfolio Personal
+## Descripción
+Portfolio personal realizado con herramientas básicas de desarrollo web (HTML5, CSS3, CDN de librería AOS para efectos durante scrolleo de la página).
+Se describen los servicios ofrecidos, habilidades de desarrollo a utilizar e intereses personales.
+Finalmente, datos de contacto (Whatsapp, email y Linkedin).
+El diseño es Web Responsive (Móbile first) logrado con el uso de Media Queries y Grids.
+El mismo se encuentra alojado en Vercel.
 
 ## Recursos Utilizados
-HTML, CCS3, Booststrap, SASS, GIT
+HTML, CCS3, GIT
+
+## Sitio Web
+[Portfolio] (https://leoschmal.com.ar)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
