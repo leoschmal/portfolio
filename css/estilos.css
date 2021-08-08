@@ -297,3 +297,8 @@ footer {
 .enviar .boton {
   width: 100%;
 }
+
+.h2Sub{
+  color: var(--caracol);
+  font-size: 2.4rem;
+}
