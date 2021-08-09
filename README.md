@@ -13,7 +13,7 @@ El mismo se encuentra alojado en Vercel.
 HTML, CCS3, GIT
 
 ## Sitio Web
-[Portfolio] (https://leoschmal.com.ar)
+[Portfolio](https://leoschmal.com.ar)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
