@@ -204,6 +204,33 @@ footer {
     }
 
   }
+/**/
+.serviciosContacto {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  column-gap: 1rem;
+  margin-bottom: 3rem;
+}
+
+@media (min-width: 768px){
+  .serviciosContacto {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 1rem;
+    margin-bottom: 3rem;
+  }
+
+}
+
+/*Imagenes*/
+.imgSize{
+  width:5rem;
+}
+@media (min-width: 768px){
+  .imgSize{
+    width: 10rem;
+  }
+}
 /*seccion trabajos*/
   .trabajos {
     display: grid;
