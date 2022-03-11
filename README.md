@@ -4,7 +4,7 @@
 Repositorio de Portfolio Personal
 ## Descripción
 Portfolio personal realizado con herramientas básicas de desarrollo web (HTML5, CSS3, CDN de librería AOS para efectos durante scrolleo de la página).
-Se describen los servicios ofrecidos, habilidades de desarrollo a utilizar e intereses personales.
+Se describen mis habilidades en Desarrollo Web e intereses personales.
 Finalmente, datos de contacto (Whatsapp, email y Linkedin).
 El diseño es Web Responsive (Móbile first) logrado con el uso de Media Queries y Grids.
 El mismo se encuentra alojado en Vercel.
